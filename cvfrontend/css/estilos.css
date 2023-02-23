@@ -1,0 +1,54 @@
+body {
+    width: auto;
+    height: auto;
+    margin-top: 80px;
+    background-color: #008080;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    color: aliceblue;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+#fotoDePerfil {
+    width: 150px;
+    border-radius: 50%;
+    border-style: groove;
+}
+
+.container-fluid {
+    width: 70%;
+
+}
+
+#desplegar{
+    background-color: #007575;
+}
+
+h5 {
+    color: rgb(255, 255, 255);
+    margin-left: 100px;
+    margin-top: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
